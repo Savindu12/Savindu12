@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhamsarasavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhamsarasavindu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/savindu-dhamsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/savindu-dhamsara/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/savindu-dhamsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savindu-dhamsara/" height="30" width="40" /></a>
 <a href="https://fb.com/savindu dhamsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="savindu dhamsara" height="30" width="40" /></a>
 <a href="https://instagram.com/sa_vin_du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sa_vin_du" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@savindudhamsara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@savindudhamsara2" height="30" width="40" /></a>
